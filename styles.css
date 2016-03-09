@@ -50,6 +50,11 @@ a:hover {
 .nav li {
   padding: 5px 10px 10px 10px;
 }
+.nav h1 {
+  display :block;
+  margin-right: auto;
+  color: lightgray;
+}
 .nav a {
   transition: all .5s;
 }
