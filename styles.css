@@ -57,13 +57,7 @@ a:hover {
   color: white;
 }
 
-header {
-  text-align: center;
-  background: url('images/Calgary.jpg') no-repeat top center ;
-  background-size: cover;
-  overflow: hidden;
-  padding-top: 60px;
-}
+
 header {
   line-height: 1.5;
 }
