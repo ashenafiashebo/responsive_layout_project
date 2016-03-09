@@ -28,10 +28,10 @@ a:hover {
 .main-nav {
   width: 100%;
   background: lightgray ;
-  min-height: 30px;
-  padding: 20px;
+  min-height: 60px;
+  padding: 40px;
   position: fixed;
-  text-align: center;
+  text-align: left;
 }
 .nav {
   display: flex;
